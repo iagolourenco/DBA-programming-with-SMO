@@ -1,4 +1,5 @@
 # DBA-programming-with-SMO
+(Não sou programador, sou apenas um mero DBA que anda brincando com programação)
 
 Essse repositório irá contemplar alguns projetos usando a biblioteca SMO¹. E vocÊ pode copiá-los livremente.
 
